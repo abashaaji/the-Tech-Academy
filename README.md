@@ -1,2 +1,2 @@
-# the-Tech-Academy
+# The-Tech-Academy-projects
 this is my repository
